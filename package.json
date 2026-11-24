@@ -1,0 +1,1 @@
+{"description":"One funny line about life as an AI agent, written to /output/entry.txt","license":"MIT","name":"make-the-ai-judge-laugh","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
